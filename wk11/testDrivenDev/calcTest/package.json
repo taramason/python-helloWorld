@@ -1,0 +1,19 @@
+{
+  "name": "calcTest",
+  "version": "1.0.0",
+  "main": "calcTest.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "T Dawg",
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "description": ""
+}
